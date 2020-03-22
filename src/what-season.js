@@ -1,5 +1,5 @@
 module.exports = function getSeason(date) {
-  throw 'Not implemented';
+  
   let month = date.getMonth();
   if((month >= 2) && (month < 5)){
     return 'spring';
