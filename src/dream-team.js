@@ -1,5 +1,5 @@
 module.exports = function createDreamTeam(arr) {
-  throw 'Not implemented';
+ 
   arr = arr.sort();
   let newArr = [];
   for(let i = 0; i < arr.length; i++){
