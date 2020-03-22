@@ -1,5 +1,5 @@
 module.exports = function transform( arr ) {
-    throw 'Not implemented';
+   
     let a = '--discard-next';
   let b = '--discard-prev';
   let c = '--double-next';
